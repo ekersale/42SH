@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/42sh-2017-damian/!svn/ver/105/4.0/includes
+END
+my_getline.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/42sh-2017-damian/!svn/ver/105/4.0/includes/my_getline.h
+END
+xerror.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/42sh-2017-damian/!svn/ver/105/4.0/includes/xerror.h
+END
+proto.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/42sh-2017-damian/!svn/ver/104/4.0/includes/proto.h
+END
+types.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/42sh-2017-damian/!svn/ver/105/4.0/includes/types.h
+END
+shell.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/42sh-2017-damian/!svn/ver/105/4.0/includes/shell.h
+END

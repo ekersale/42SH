@@ -1,0 +1,269 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/42sh-2017-damian/!svn/ver/107/4.0/sources
+END
+executor.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/42sh-2017-damian/!svn/ver/107/4.0/sources/executor.c
+END
+bt_exit.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/42sh-2017-damian/!svn/ver/93/4.0/sources/bt_exit.c
+END
+bt_echo.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/42sh-2017-damian/!svn/ver/106/4.0/sources/bt_echo.c
+END
+list_to_tab.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/42sh-2017-damian/!svn/ver/93/4.0/sources/list_to_tab.c
+END
+get_bin.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/42sh-2017-damian/!svn/ver/93/4.0/sources/get_bin.c
+END
+cmd_translator.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/42sh-2017-damian/!svn/ver/93/4.0/sources/cmd_translator.c
+END
+cmd_simple.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/42sh-2017-damian/!svn/ver/93/4.0/sources/cmd_simple.c
+END
+my_strcmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/42sh-2017-damian/!svn/ver/93/4.0/sources/my_strcmp.c
+END
+bt_alias.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/42sh-2017-damian/!svn/ver/106/4.0/sources/bt_alias.c
+END
+set_init.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/42sh-2017-damian/!svn/ver/93/4.0/sources/set_init.c
+END
+xerror.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/42sh-2017-damian/!svn/ver/93/4.0/sources/xerror.c
+END
+get_his.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/42sh-2017-damian/!svn/ver/93/4.0/sources/get_his.c
+END
+list_to_conf.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/42sh-2017-damian/!svn/ver/93/4.0/sources/list_to_conf.c
+END
+bt_history.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/42sh-2017-damian/!svn/ver/106/4.0/sources/bt_history.c
+END
+core.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/42sh-2017-damian/!svn/ver/93/4.0/sources/core.c
+END
+is_separator.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/42sh-2017-damian/!svn/ver/93/4.0/sources/is_separator.c
+END
+my_cd.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/42sh-2017-damian/!svn/ver/96/4.0/sources/my_cd.c
+END
+my_getline.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/42sh-2017-damian/!svn/ver/93/4.0/sources/my_getline.c
+END
+cmd_to_list.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/42sh-2017-damian/!svn/ver/93/4.0/sources/cmd_to_list.c
+END
+cmd_open_parser.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/42sh-2017-damian/!svn/ver/93/4.0/sources/cmd_open_parser.c
+END
+cmd_exe.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/42sh-2017-damian/!svn/ver/97/4.0/sources/cmd_exe.c
+END
+my_getinput.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/42sh-2017-damian/!svn/ver/93/4.0/sources/my_getinput.c
+END
+built_in.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/42sh-2017-damian/!svn/ver/95/4.0/sources/built_in.c
+END
+cmd_pipe_exe_out.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/42sh-2017-damian/!svn/ver/93/4.0/sources/cmd_pipe_exe_out.c
+END
+my_basics.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/42sh-2017-damian/!svn/ver/93/4.0/sources/my_basics.c
+END
+bt_cd.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/42sh-2017-damian/!svn/ver/106/4.0/sources/bt_cd.c
+END
+checking.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/42sh-2017-damian/!svn/ver/93/4.0/sources/checking.c
+END
+set_standard.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/42sh-2017-damian/!svn/ver/93/4.0/sources/set_standard.c
+END
+bt_env.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/42sh-2017-damian/!svn/ver/93/4.0/sources/bt_env.c
+END
+list_linker.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/42sh-2017-damian/!svn/ver/93/4.0/sources/list_linker.c
+END
+cmd_wait_xor.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/42sh-2017-damian/!svn/ver/93/4.0/sources/cmd_wait_xor.c
+END
+cmd_parser.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/42sh-2017-damian/!svn/ver/93/4.0/sources/cmd_parser.c
+END
+cmd_pipe.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/42sh-2017-damian/!svn/ver/93/4.0/sources/cmd_pipe.c
+END
+cmd_pipe_exe.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/42sh-2017-damian/!svn/ver/93/4.0/sources/cmd_pipe_exe.c
+END
+skip_func.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/42sh-2017-damian/!svn/ver/93/4.0/sources/skip_func.c
+END
+get_glob.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/42sh-2017-damian/!svn/ver/93/4.0/sources/get_glob.c
+END
+cmd_open.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/42sh-2017-damian/!svn/ver/93/4.0/sources/cmd_open.c
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/42sh-2017-damian/!svn/ver/93/4.0/sources/main.c
+END
+cmd_open_exe.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/42sh-2017-damian/!svn/ver/95/4.0/sources/cmd_open_exe.c
+END
+get_env.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/42sh-2017-damian/!svn/ver/93/4.0/sources/get_env.c
+END
+bt_setenv.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/42sh-2017-damian/!svn/ver/101/4.0/sources/bt_setenv.c
+END
+cmd_pipe_exe_multi.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/42sh-2017-damian/!svn/ver/93/4.0/sources/cmd_pipe_exe_multi.c
+END
+bt_unsetenv.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/42sh-2017-damian/!svn/ver/101/4.0/sources/bt_unsetenv.c
+END
+aff_prompt.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/42sh-2017-damian/!svn/ver/98/4.0/sources/aff_prompt.c
+END
